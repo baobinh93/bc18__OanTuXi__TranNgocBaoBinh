@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bc18__OanTuXi__TranNgocBaoBinh/static/css/main.1d109b16.css",
+    "main.js": "/bc18__OanTuXi__TranNgocBaoBinh/static/js/main.242090b3.js",
+    "static/js/787.28cb0dcd.chunk.js": "/bc18__OanTuXi__TranNgocBaoBinh/static/js/787.28cb0dcd.chunk.js",
+    "static/media/bgGame.png": "/bc18__OanTuXi__TranNgocBaoBinh/static/media/bgGame.3f5b228c7de7b7011e90.png",
+    "static/media/Pony.ttf": "/bc18__OanTuXi__TranNgocBaoBinh/static/media/Pony.99ddd1e5ee531d1eb8a2.ttf",
+    "static/media/playerComputer.png": "/bc18__OanTuXi__TranNgocBaoBinh/static/media/playerComputer.5417b06d314211d20303.png",
+    "static/media/player.png": "/bc18__OanTuXi__TranNgocBaoBinh/static/media/player.ca6a1614dd36400bf041.png",
+    "static/media/bao.png": "/bc18__OanTuXi__TranNgocBaoBinh/static/media/bao.3b56125738e85dd71bbb.png",
+    "static/media/bua.png": "/bc18__OanTuXi__TranNgocBaoBinh/static/media/bua.b4ebe6c44f9f0b460d8d.png",
+    "static/media/keo.png": "/bc18__OanTuXi__TranNgocBaoBinh/static/media/keo.f5e2eab8f8038707f794.png",
+    "index.html": "/bc18__OanTuXi__TranNgocBaoBinh/index.html",
+    "main.1d109b16.css.map": "/bc18__OanTuXi__TranNgocBaoBinh/static/css/main.1d109b16.css.map",
+    "main.242090b3.js.map": "/bc18__OanTuXi__TranNgocBaoBinh/static/js/main.242090b3.js.map",
+    "787.28cb0dcd.chunk.js.map": "/bc18__OanTuXi__TranNgocBaoBinh/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d109b16.css",
+    "static/js/main.242090b3.js"
+  ]
+}
