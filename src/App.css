@@ -1,6 +1,13 @@
 .App {
   text-align: center;
 }
+@font-face {
+  font-family: fontGame;
+  src: url(./OanTuXi/oanTuXiImg/Pony.ttf);
+}
+.bg-game {
+  font-family: fontGame;
+}
 
 .App-logo {
   height: 40vmin;
